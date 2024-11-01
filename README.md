@@ -32,7 +32,7 @@ We welcome any form of contribution! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a Pull Request
 
-PS: If you have any question, we can discuss it in *Issue*.
+PS: If you have any question, feel free to discuss it in *Issue*.
 ## License
 
 This project is licensed under the MIT License. For more information, please see the [LICENSE](LICENSE) file.
