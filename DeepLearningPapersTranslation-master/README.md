@@ -1,2 +1,0 @@
-# DeepLearningPapersTranslation
-深度学习经典论文翻译

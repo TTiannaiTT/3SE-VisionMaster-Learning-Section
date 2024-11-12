@@ -5,9 +5,17 @@ The Learning Section for the Computer Vision Group of 3SE Robotics Team, Southea
 3SE-VisionMaster-Learning-Section is a project for learning and researching computer vision, aimed at helping team members master relevant technologies and tools.
 
 ## Content List
-### Paper List
-Example:  
-- [NeurIPS 2012]Imagenet classification with deep convolutional neural networks[[Paper](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]
+### Paper List 
+- [Proceedings of the IEEE 1998]Gradient-based learning applied to document recognition[[Lenet](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=726791)]
+- [NeurIPS 2012]Imagenet classification with deep convolutional neural networks[[Alexnet](https://dl.acm.org/doi/pdf/10.1145/3065386)]
+- [CVPR 2015]Going deeper with convolutions[[Googlenet](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298594)]
+- [CoRR 2014]Very Deep Convolutional Networks for Large-Scale Image Recognition[[VGG](https://arxiv.org/pdf/1409.1556)]
+- [2013]Network In Network[[NIN](https://arxiv.org/pdf/1409.1556)]
+- [CoRR 2015]U-Net: Convolutional Networks for Biomedical Image Segmentation[[U-Net](https://arxiv.org/pdf/1505.04597)]
+- [2015 CoRR]Deep Residual Learning for Image Recognition[[ResNet](https://arxiv.org/pdf/1512.03385)]
+
+### Tutorial Website List
+- [DeepLearningPapersTranslation](https://github.com/bigcindy/DeepLearningPapersTranslation):Some translated DeepLearning Paper
 
 ### Tool List
 - [OpenCV](https://opencv.org/): Open Source Computer Vision Library.
