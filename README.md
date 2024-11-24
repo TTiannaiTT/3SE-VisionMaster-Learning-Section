@@ -15,6 +15,7 @@ The Learning Section for the Computer Vision Group of 3SE Robotics Team, Southea
 
 ### Tutorial Website List
 - [DeepLearningPapersTranslation](https://github.com/bigcindy/DeepLearningPapersTranslation):Some translated DeepLearning Paper
+- [CS231n: Deep Learning in Computer Vision](https://cs231n.stanford.edu/index.html)
 
 ### Tool List
 - [OpenCV](https://opencv.org/): Open Source Computer Vision Library.
